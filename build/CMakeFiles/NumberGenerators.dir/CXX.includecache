@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/Generators.cpp
+iostream
+-
+NumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+UtilityFunctions.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/UtilityFunctions.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/UtilityFunctions.hpp
+vector
+-
+memory
+-
+NumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+

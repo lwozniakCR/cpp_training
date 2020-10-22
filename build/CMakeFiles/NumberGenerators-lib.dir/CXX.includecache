@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/FibonacciNumberGenerator.cpp
+FibonacciNumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/FibonacciNumberGenerator.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/FibonacciNumberGenerator.hpp
+NumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/PrimeNumberGenerator.cpp
+PrimeNumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/PrimeNumberGenerator.hpp
+algorithm
+-
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/PrimeNumberGenerator.hpp
+vector
+-
+NumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+
+/home/lukasz.wozniak/cpp_training/cpp_training/src/UtilityFunctions.cpp
+iostream
+-
+vector
+-
+memory
+-
+stdexcept
+-
+NumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/NumberGenerator.hpp
+FibonacciNumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/FibonacciNumberGenerator.hpp
+PrimeNumberGenerator.hpp
+/home/lukasz.wozniak/cpp_training/cpp_training/src/PrimeNumberGenerator.hpp
+

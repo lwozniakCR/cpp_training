@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNumberGenerators-lib.a  CMakeFiles/NumberGenerators-lib.dir/src/FibonacciNumberGenerator.cpp.o CMakeFiles/NumberGenerators-lib.dir/src/PrimeNumberGenerator.cpp.o CMakeFiles/NumberGenerators-lib.dir/src/UtilityFunctions.cpp.o
+/usr/bin/ranlib libNumberGenerators-lib.a

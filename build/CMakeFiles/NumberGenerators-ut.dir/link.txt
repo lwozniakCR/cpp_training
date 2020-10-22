@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/NumberGenerators-ut.dir/test/testMain.cpp.o CMakeFiles/NumberGenerators-ut.dir/test/FibonacciNumberGeneratorTests.cpp.o CMakeFiles/NumberGenerators-ut.dir/test/PrimeNumberGeneratorTests.cpp.o CMakeFiles/NumberGenerators-ut.dir/test/UtilityFunctionsTests.cpp.o  -o NumberGenerators-ut libNumberGenerators-lib.a 

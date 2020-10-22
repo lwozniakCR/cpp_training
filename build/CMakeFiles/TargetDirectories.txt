@@ -1,0 +1,5 @@
+/home/lukasz.wozniak/cpp_training/cpp_training/build/CMakeFiles/NumberGenerators-ut.dir
+/home/lukasz.wozniak/cpp_training/cpp_training/build/CMakeFiles/rebuild_cache.dir
+/home/lukasz.wozniak/cpp_training/cpp_training/build/CMakeFiles/NumberGenerators-lib.dir
+/home/lukasz.wozniak/cpp_training/cpp_training/build/CMakeFiles/edit_cache.dir
+/home/lukasz.wozniak/cpp_training/cpp_training/build/CMakeFiles/NumberGenerators.dir
